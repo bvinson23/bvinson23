@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Brandon Vinson's Github Profile Readme -->
 <header align = center>
 <h1 <header align = center>
